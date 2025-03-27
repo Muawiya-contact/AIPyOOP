@@ -26,9 +26,8 @@ cd AIPyOOP
 pip install -r requirements.txt
 
 ```
-###
-📖 How to Use
-#1️⃣ Run the Interactive Learning Mode
+# 📖 How to Use<br>
+## 1️⃣ Run the Interactive Learning Mode
 ```bash
 python aipyoop/interactive.py
 ```
@@ -36,24 +35,21 @@ The AI will guide you through OOP concepts.
 
 Type your own Python class, and get instant feedback!
 
-#2️⃣ Use the Refactor & Improve Mode
-bash
-Copy
-Edit
+## 2️⃣ Use the Refactor & Improve Mode
+```bash
 python aipyoop/refactor.py my_code.py
+```
 The AI will analyze your code and suggest better OOP practices.
 
-#3️⃣ Try Pre-Built Examples
+## 3️⃣ Try Pre-Built Examples
 python
-Copy
-Edit
+```bash
 from aipyoop.examples import Car
 my_car = Car("Toyota", "Corolla", 2023)
 print(my_car)
-#🛠 Project Structure
-graphql
-Copy
-Edit
+```
+# 🛠 Project Structure
+```bash
 AIPyOOP/
 ├── aipyoop/
 │   ├── __init__.py         # Package initializer
@@ -69,10 +65,12 @@ AIPyOOP/
 ├── requirements.txt        # Dependencies
 ├── .gitignore              # Ignore unnecessary files
 └── setup.py                # Package setup
-###🤝 Contributing
+```
+# 🤝 Contributing
 Contributions are welcome! If you’d like to improve AIPyOOP, follow these steps:
+<ul>
 
-Fork the repository
+<li>Fork the repository</li>
 
 Create a new branch (feature/new-feature)
 
