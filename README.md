@@ -25,12 +25,13 @@ git clone https://github.com/your-username/AIPyOOP.git
 cd AIPyOOP
 pip install -r requirements.txt
 
-##📖 How to Use
+```
+###
+📖 How to Use
 #1️⃣ Run the Interactive Learning Mode
-bash
-Copy
-Edit
+```bash
 python aipyoop/interactive.py
+```
 The AI will guide you through OOP concepts.
 
 Type your own Python class, and get instant feedback!
