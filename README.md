@@ -72,16 +72,16 @@ Contributions are welcome! If you’d like to improve AIPyOOP, follow these step
 
 <li>Fork the repository</li>
 
-Create a new branch (feature/new-feature)
+<li>Create a new branch (feature/new-feature)</li>
 
-Commit your changes
+<li>Commit your changes</li>
 
-Push to GitHub and open a pull request
+<li>Push to GitHub and open a pull request</li>
 
-📜 License
+# 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🌟 Support & Feedback
+#🌟 Support & Feedback
 If you like this project, give it a ⭐ on GitHub!
 For questions, feel free to open an issue or connect with me.
-
+```
